@@ -1,7 +1,7 @@
 # ghost-ai
 # azure.ghost-web-app-for-containers
 
-A one-click [Ghost](https://ghost.org/) deployment on [Azure Web App for Containers](https://azure.microsoft.com/en-us/services/app-service/containers/).
+[Ghost](https://ghost.org/) deployment on [Azure Web App for Containers](https://azure.microsoft.com/en-us/services/app-service/containers/).
 
 
 ## Getting Started

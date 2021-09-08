@@ -17,3 +17,4 @@ The Azure Web app configuration is provided as a ready-to-use ARM template that 
 * an [Azure Front Door](https://docs.microsoft.com/en-us/azure/frontdoor/) endpoint with a [WAF policy](https://docs.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview) _or_ an [Azure CDN](https://docs.microsoft.com/en-us/azure/cdn/) profile and endpoint for offloading the traffic from the Web app depending on the specified input parameter (deploymentConfiguration).
 
 All resources have their diagnostic settings configured to stream resource logs and metrics to the Log Analytics workspace.
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fkamalparuchuri12%2Fghost-ai%2Fmain%2Fghost.json)
